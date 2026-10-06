@@ -1,5 +1,5 @@
 # xslt2-parse-alarm-log
-Using XSLT2 to parse an XML clinical audit log file. This requires Saxon-HE 10.5J from Saxonica and Java 
+Using XSLT2 to parse an XML clinical audit log file from PICiX C.03. This requires Saxon-HE 10.5J from Saxonica and Java 
 
 To execute:
 
